@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Boleteador</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Clave</string>
+    <string name="action_sign_in_short">Acceder</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">No es un usuario válido</string>
+    <string name="invalid_password">La clave debe ser superior a  5 caracteres</string>
+    <string name="login_failed">"Falló el acceso"</string>
+    <string name="app_exit">Salir de la Aplicación</string>
+    <string name="title_activity_principal">PrincipalActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="todo">TODO</string>
+
+    <string name="zero_single">0</string>
+    <string name="zero_double">00</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="clear">C</string>
+    <string name="backspace">D</string>
+    <string name="add">+</string>
+    <string name="multiply">X</string>
+    <string name="screen_base">$0</string>
+    <string name="unit_base">1</string>
+    <string name="generate">Generar boleta</string>
+</resources>
