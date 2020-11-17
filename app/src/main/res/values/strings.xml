@@ -35,7 +35,7 @@
     <string name="backspace">D</string>
     <string name="add">+</string>
     <string name="multiply">X</string>
-    <string name="screen_base">$0</string>
+    <string name="screen_base">$ 0</string>
     <string name="unit_base">1</string>
     <string name="generate">Generar boleta</string>
 </resources>

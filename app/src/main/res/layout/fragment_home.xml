@@ -19,7 +19,8 @@
         android:textSize="28sp"
         app:backgroundTint="@color/grayButton"
         app:layout_constraintStart_toEndOf="@+id/btn_backspace"
-        app:layout_constraintTop_toBottomOf="@+id/btn_two" />
+        app:layout_constraintTop_toBottomOf="@+id/btn_two"
+        />
 
     <Button
         android:id="@+id/btn_zero_single"
@@ -195,6 +196,7 @@
         android:textIsSelectable="false"
         android:textSize="70sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -258,6 +260,8 @@
         android:textIsSelectable="false"
         android:textSize="35sp"
         android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.227"
         app:layout_constraintStart_toEndOf="@+id/txt_equis"
         app:layout_constraintTop_toBottomOf="@+id/txt_pantalla" />
 
